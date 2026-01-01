@@ -65,7 +65,9 @@ U盘密码功能：
 # 🔄 卸载
 删除“C:\Program Files\Program.exe”并重启
 # 📞 支持与反馈
+(QQ)3896388797
 3896388797@qq.com
+ShenYinZhims@outlook.com
 # ⚠️ 最终提醒
 再次强调：
 • 本软件仅用于合法的教育管理目的
