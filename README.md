@@ -35,7 +35,7 @@ ClassroomManager 是一套完整的教室计算机管理解决方案，旨在为
 2. 运行Setup.exe,为防止学生发现，安装程序无窗口，运行程序后安装完成。
 手动安装：
 克隆仓库
-git clone https://github.com/yourusername/ClassroomManager.git
+git clone https://github.com/ShenYinZhi/ClassroomManager.git
 进入目录
 cd ClassroomManager
 以管理员权限运行安装脚本
