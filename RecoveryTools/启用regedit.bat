@@ -1,0 +1,1 @@
+powershell -command "Remove-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Policies\System' -Name 'DisableRegistryTools' -ErrorAction SilentlyContinue"
